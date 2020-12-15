@@ -15,3 +15,15 @@
 - **Wii**
 ## Tematica ✒️
 Las diferentes tematicas que ha tenido **Call of Duty** en todos los juegos que ha sacado ha sido variado, ha sacado de la segunda guerra mundial, de la guerra fria, de una guerra futura...
+## Tipos de arma
+Las armas que puedes escoger en este juego hay que tener una debida conciencia 
+En este juego podemos encontrar diferentes tipos de arma que tienes que escoger con debida conciencia dependiendo del mapa que jugamos, ya que podemos necesitar una arma corto alcance si jugamos en un mapa más cerrado con escondites, pero si jugamos en un mapa de campo abierto necesitaremos un arma que tenga 
+```
+Fusiles de asalto
+Subfusiles
+Escopeta
+Francotirador
+Pistolas y revolveres
+Granadas
+Ametralladoras ligeras
+```
